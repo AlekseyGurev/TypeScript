@@ -61,5 +61,3 @@ const userRecord = {
 const logTypeOf = (value) => {
     console.log(typeof value);
 };
-const str = 'str';
-logTypeOf(str);
